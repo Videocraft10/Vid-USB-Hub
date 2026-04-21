@@ -1,1 +1,2 @@
-# Vid-USB-Hub
+# USB Hub: Videocraft Edition
+##
