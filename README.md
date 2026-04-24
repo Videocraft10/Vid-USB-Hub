@@ -1,3 +1,3 @@
 # USB Hub: Videocraft Edition [WIP]
-<img width="1800" height="1200" alt="USB Hub Main" src="https://github.com/user-attachments/assets/fa24f79a-6df0-4f4f-9721-995905bd975b" />
+<img width="3840" height="2668" alt="USB Hub Main v2" src="https://github.com/user-attachments/assets/26379795-8718-4870-a766-5db08af34890" />
 ##
