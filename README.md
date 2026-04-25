@@ -1,9 +1,16 @@
 # USB Hub: Videocraft Edition [WIP]
 <img width="3840" height="2668" alt="USB Hub Main v2" src="https://github.com/user-attachments/assets/26379795-8718-4870-a766-5db08af34890" />
-*A Custom made USB Hub featuring 3 USB - A Ports and 2 USB - C Ports*
+A custom made USB Hub with some cool little fetures created for Hack Club Fallout.
 
+## Fetures
 
-## BOM
+1. USB-A Input with 4 output USBs (2 A and 2 C)
+2. Cool Keychain hole so you can take your hub around you with style :)
+3. Easy to open, 3D printed case so you can admire the PCB
+4. Red power LED to indicate when power is flowing though (great to make sure it ain't broke)
+5. Secured by 4 easy to remove M2 screws if you want to update the case with a diffrent PCB with the same silhouette
+
+## PCB BOM
 *Amount used is for 2 USB Hubs + Price quotes though EasyEDA PCBA*
 
 | Item | JLCPCB # | Single Cost | Amount Used | Fees | Total Price |
@@ -28,3 +35,10 @@
 | Shipping Fee | -------- | -------- | -------- | -------- | $9.25 |
 | Sales Tax | -------- | -------- | -------- | -------- | $2.23 |
 | Grand Total | PCB + PCBA (2) + Shipping + Tax | -------- | -------- | -------- | $35.92 |
+
+## Build BOM
+
+| Item | Discripton | Notes | Cost/Amount Used |
+| -------- | -------- | -------- | -------- |
+| 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | Aproxx 14g of filliment = $0.12 |
+| M2 Screws | -------- | -------- | -------- | 
