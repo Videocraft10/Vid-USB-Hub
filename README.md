@@ -40,5 +40,5 @@ A custom made USB Hub with some cool little fetures created for Hack Club Fallou
 
 | Item | Discripton | Notes | Cost/Amount Used |
 | -------- | -------- | -------- | -------- |
-| 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | Aproxx 14g of filliment = $0.12 |
+| 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | Aproxx 14g of filament = $0.12 |
 | M2 Screws | -------- | -------- | -------- | 
