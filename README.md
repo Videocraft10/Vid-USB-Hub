@@ -10,6 +10,47 @@ A custom made USB Hub with some cool little fetures created for Hack Club Fallou
 4. Red power LED to indicate when power is flowing though (great to make sure it ain't broke)
 5. Secured by 4 easy to remove M2 screws if you want to update the case with a diffrent PCB with the same silhouette
 
+## Why??
+I created this project to expand my knowlage on how hardware works on a fundemental level and how it is created, through sourcing materials, and designing the PCB. Additionally I wanted to add my own custom spin on the classic USB Hub by adding some cool fetures that I would appreicate and use.
+
+## The PCB
+The PCB for this project was created within EasyEDA for easy parts and footprint intagration.
+
+
+**The Schematic:**
+<img width="1452" height="1028" alt="Screenshot 2026-04-26 140159" src="https://github.com/user-attachments/assets/d209de7c-60b7-4f69-8d54-8ca1f9b59b91" />
+
+**The Circuit Borad:**
+
+
+Front:
+<img width="1137" height="579" alt="Screenshot 2026-04-26 140349" src="https://github.com/user-attachments/assets/737d0b10-033c-4cff-91c9-a7c10145c3cc" />
+
+
+
+Back:
+<img width="1151" height="575" alt="Screenshot 2026-04-26 140403" src="https://github.com/user-attachments/assets/f91e54dd-7763-4123-86fb-5cd0639ded90" />
+
+## The Case
+The case was designed using Blender, I choose this over CAD options due to my extensive knowlage and experience in the software.
+
+
+**Full case**
+<img width="1178" height="365" alt="Screenshot 2026-04-26 141623" src="https://github.com/user-attachments/assets/485e5645-3790-4071-86ee-5e94ef2eaa94" />
+*This case feautres a key chain hole and a LED Hole*
+
+**Bottom**
+<img width="917" height="530" alt="Screenshot 2026-04-26 141639" src="https://github.com/user-attachments/assets/55e8611e-dc0d-425b-886c-4387e3511c02" />
+
+
+**Top**
+<img width="931" height="510" alt="Screenshot 2026-04-26 141649" src="https://github.com/user-attachments/assets/4d8de907-fbb6-4fea-9401-61a633569dd8" />
+
+
+**Case open with PCB Inside**
+<img width="1131" height="328" alt="Screenshot 2026-04-26 141707" src="https://github.com/user-attachments/assets/b97cdd27-b034-4ecf-974a-4afe93b02bf7" />
+*This case also features a open swinging design to easily open the case though the 3D printed latch to see inside*
+
 ## PCB BOM
 *Amount used is for 2 USB Hubs + Price quotes though EasyEDA PCBA*
 
@@ -42,3 +83,7 @@ A custom made USB Hub with some cool little fetures created for Hack Club Fallou
 | -------- | -------- | -------- | -------- |
 | 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | Aproxx 14g of filament = $0.12 |
 | M2 Screws | -------- | -------- | -------- | 
+
+
+## How to make one yourself!
+
