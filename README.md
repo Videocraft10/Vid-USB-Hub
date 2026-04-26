@@ -23,7 +23,7 @@ A custom made USB Hub with some cool little fetures created for Hack Club Fallou
 | Resistor 330 | C23138 | $0.0016 | 2 | None | $0.0032 |
 | <ins>Type-A USBs</ins> | C668591 | $0.0662 | 6 | Difficult Component Fee + $0.03 per. Plus Order must be a even number, forced to buy 8 (3 for 1 PCB = not even. Forced 4 for one = 8 for both) | $0.5296 |
 | <ins>Type-C USBs</ins> | C2765186 | $0.066 | 4 | Forced to buy 5 | $0.33 |
-| **PCB Price** | -------- | **PCBA Price + Fees** | -------- | -------- | -------- |
+| **PCB Price** | -------- | **PCBA Price + Fees** | **NOTES** | -------- | -------- |
 | $2 | -------- | Setup Fee | -------- | -------- | $8.12 |
 | -------- | -------- | Stencil | -------- | -------- | $1.52 |
 | -------- | -------- | Components | -------- | -------- | $2.15 |
