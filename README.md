@@ -34,7 +34,7 @@ A custom made USB Hub with some cool little fetures created for Hack Club Fallou
 | Total Cost for PCB + 2 PCBA | -------- | -------- | -------- | -------- | $24.44 |
 | Shipping Fee | -------- | -------- | -------- | -------- | $9.25 |
 | Sales Tax | -------- | -------- | -------- | -------- | $2.23 |
-| Grand Total | PCB + PCBA (2) + Shipping + Tax | -------- | -------- | -------- | $35.92 |
+| Grand Total | PCB (5) + PCBA (2) + Shipping + Tax | -------- | -------- | -------- | $35.92 |
 
 ## Build BOM
 
