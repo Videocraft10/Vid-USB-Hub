@@ -86,20 +86,18 @@ The case was designed using Blender, I choose this over CAD options due to my ex
 
 
 ## How to make one yourself!
-*If you have no intention of modifiying the case or PCB and you have a 3D printer here are the steps to follow:*
+*If you have no intention of modifying the case or PCB and you have a 3D printer, here are the steps to follow:*
 
-
-1. Download your perferd case from the [Ready to Print](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/Case/Ready%20to%20Print%20Files) folder. Please note that the only case that is 100% polished and updated will always be [Videocraft USB Hub v0 Case Keyhole+LED Hole_Print.stl](https://github.com/Videocraft10/Vid-USB-Hub/blob/main/Development%20Files/Case/Ready%20to%20Print%20Files/Videocraft%20USB%20Hub%20v0%20Case%20Keyhole%2BLED%20Hole_Print.stl). Once downloaded (click the download button on the top right) open in your 3D printer slicer of choice and export. I will be printing in a generic PLA on a Ender 3 Pro 3D printer, using the Super quailty preset, with tree supports enabled in settings in the Cura Slicer.
-2. Once you have the 3D print going, download the EasyEDA PCB files from the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/PCB) folder in the GitHub. Please note that EasyEDA files are not supported on KiCad, but you maybe could get it to work with some workarounds if you really want to.
+1. Download your preferred case from the [Ready to Print](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/Case/Ready%20to%20Print%20Files) folder. Please note that the only case that is 100% polished and updated will always be [Videocraft USB Hub v0 Case Keyhole+LED Hole_Print.stl](https://github.com/Videocraft10/Vid-USB-Hub/blob/main/Development%20Files/Case/Ready%20to%20Print%20Files/Videocraft%20USB%20Hub%20v0%20Case%20Keyhole%2BLED%20Hole_Print.stl). Once downloaded (click the download button on the top right), open it in your 3D printer slicer of choice and export. I will be printing in a generic PLA on an Ender 3 Pro 3D printer, using the Super Quality preset, with tree supports enabled in the Cura Slicer settings.
+2. Once you have the 3D print going, download the EasyEDA PCB files from the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/PCB) folder in the GitHub. Please note that EasyEDA files are not supported on KiCad, but you might be able to get them to work with some workarounds if you really want to.
 3. Import to EasyEDA and click Order.
-4. Reccomened to select PCB Assembaly option to get it pre assembled. I reccomend getting 2 assembled.
-5. There you go! Once your PCB arrives, smack it into the case, and secure it with M2 screws in the 4 corrnors.
-6. You now are a proud owner of the Videocraft USB Hub :)
+4. It is recommended to select the PCB Assembly option to get it pre-assembled. I recommend getting 2 assembled.
+5. There you go! Once your PCB arrives, smack it into the case and secure it with M2 screws in the 4 corners.
+6. You are now a proud owner of the Videocraft USB Hub :)
 
-
-*If you **DO** have intentions of modifying the case or PCB here are the steps to follow:*
-1. All blender files, including promotional files are [here](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/Case/Blender%20Files).
-2. Blender files where created in Blender 5.1.1
-3. NOTE: CAD Files are converted from blender, so they might not be well orginized or modeled correctly!!!
-4. Download EasyEDA files from above in the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/PCB) folder in the GitHub.
-5. Import into EasyEDA and modify to your hearts content!
+*If you **DO** have intentions of modifying the case or PCB, here are the steps to follow:*
+1. All Blender files, including promotional files, are [here](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/Case/Blender%20Files).
+2. Blender files were created in Blender 5.1.1.
+3. NOTE: CAD files are converted from Blender, so they might not be well-organized or modeled correctly!!!
+4. Download the EasyEDA files from above in the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/PCB) folder in the GitHub.
+5. Import into EasyEDA and modify to your heart's content!

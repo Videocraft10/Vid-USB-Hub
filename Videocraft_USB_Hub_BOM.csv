@@ -1,0 +1,30 @@
+PCB BOM
+Amount used is for 2 USB Hubs + Price quotes though EasyEDA PCBA
+
+Item,JLCPCB #,Single Cost,Amount Used,Fees,Total Price
+USB Hub Chip,C2684433,$0.2245,2,Forced to order 5 minimum,$1.1225
+Resistor 5.1k,C23186,$0.0016,8,None,$0.0128
+Capacitors 1uF,C15849,$0.0078,16,None,$0.01248
+Capacitors 100nF,C14663,$0.003,6,None,$0.018
+Power LED,C2286,$0.0066,2,None,$0.0132
+Resistor 330,C23138,$0.0016,2,None,$0.0032
+Type-A USBs,C668591,$0.0662,6,"Difficult Component Fee + $0.03 per. Plus Order must be a even number, forced to buy 8 (3 for 1 PCB = not even. Forced 4 for one = 8 for both)",$0.5296
+Type-C USBs,C2765186,$0.066,4,Forced to buy 5,$0.33
+PCB Price,,PCBA Price + Fees,NOTES,,
+$2,,Setup Fee,,,$8.12
+,,Stencil,,,$1.52
+,,Components,,,$2.15
+,,Extended Components Fee,$3.04 per Extended Component (Underlined components are Extended),,$9.12
+,,SMT Assembly,$0.0016 Fee per solder point,,$0.44
+,,Special Component Fee (Type-A USB Difficult fee),,,$0.24
+,,Nitrogen Reflow Soldering,,,$0.85
+Total Cost for PCB + 2 PCBA,,,,,$24.44
+Shipping Fee,,,,,$9.25
+Sales Tax,,,,,$2.23
+Grand Total,PCB (5) + PCBA (2) + Shipping + Tax,,,,$35.92
+
+Build BOM
+
+Item,Description,Notes,Cost/Amount Used
+3D Printer PLA,Generic 3D printer PLA. Requires a 3D printer to use,Paid $8.34 for 1 kg,Approx 14g of filament = $0.12
+M2 Screws,,,
