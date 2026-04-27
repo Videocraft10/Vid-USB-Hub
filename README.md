@@ -92,8 +92,9 @@ The case was designed using Blender, I choose this over CAD options due to my ex
 2. Once you have the 3D print going, download the EasyEDA PCB files from the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/PCB) folder in the GitHub. Please note that EasyEDA files are not supported on KiCad, but you might be able to get them to work with some workarounds if you really want to.
 3. Import to EasyEDA and click Order.
 4. It is recommended to select the PCB Assembly option to get it pre-assembled. I recommend getting 2 assembled.
-5. There you go! Once your PCB arrives, smack it into the case and secure it with M2 screws in the 4 corners.
-6. You are now a proud owner of the Videocraft USB Hub :)
+6. There you go! Once your PCB arrives, smack it into the case and secure it with M2 screws in the 4 corners.
+7. You are now a proud owner of the Videocraft USB Hub :)
+P.S. If you dont want to use EasyEDA I have also included the Garber File export too! You can find it [here!](https://github.com/Videocraft10/Vid-USB-Hub/blob/main/Development%20Files/PCB/Gerber_VidUSBHUB.zip)
 
 *If you **DO** have intentions of modifying the case or PCB, here are the steps to follow:*
 1. All Blender files, including promotional files, are [here](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Development%20Files/Case/Blender%20Files).
