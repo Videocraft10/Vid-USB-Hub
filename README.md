@@ -1,8 +1,10 @@
+
 # USB Hub: Videocraft Edition [WIP]
 <img width="3840" height="2668" alt="USB Hub Main v2" src="https://github.com/user-attachments/assets/26379795-8718-4870-a766-5db08af34890" />
 A custom made USB Hub with some cool little fetures created for Hack Club Fallout.
 
 ## Fetures
+<img width="2480" height="3508" alt="Videocraft USB Hub Zine v1" src="https://github.com/user-attachments/assets/8b660915-8f2f-42e0-ab41-3d7690357b5c" />
 
 1. USB-A Input with 4 output USBs (2 A and 2 C)
 2. Cool Keychain hole so you can take your hub around you with style :)
