@@ -4,7 +4,8 @@
 A custom made USB Hub with some cool little fetures created for Hack Club Fallout.
 
 ## Fetures
-<img width="2480" height="3508" alt="Videocraft USB Hub Zine v1" src="https://github.com/user-attachments/assets/8b660915-8f2f-42e0-ab41-3d7690357b5c" />
+<img width="2480" height="3508" alt="Videocraft USB Hub Zine v5" src="https://github.com/user-attachments/assets/1f1f5d51-e131-4e4d-86db-f14d761819be" />
+
 
 1. USB-A Input with 4 output USBs (2 A and 2 C)
 2. Cool Keychain hole so you can take your hub around you with style :)
@@ -53,6 +54,28 @@ The case was designed using Blender, I choose this over CAD options due to my ex
 <img width="1131" height="328" alt="Screenshot 2026-04-26 141707" src="https://github.com/user-attachments/assets/b97cdd27-b034-4ecf-974a-4afe93b02bf7" />
 *This case also features a open swinging design to easily open the case though the 3D printed latch to see inside*
 
+## The Case TWO!!
+After designing the case in blender, due to the requirement of having CAD files in the GitHub, I created a seccond version of the case using Fusion 360!
+
+**Full Case**
+<img width="904" height="377" alt="Screenshot 2026-05-14 185318" src="https://github.com/user-attachments/assets/03fe9c6e-e9c7-4b01-8550-862e28796b56" />
+
+**Bottom**
+<img width="961" height="418" alt="image" src="https://github.com/user-attachments/assets/e4c8e674-f7fe-4ff8-81b7-a7a196f5ebad" />
+
+
+**Top**
+<img width="1065" height="415" alt="image" src="https://github.com/user-attachments/assets/3a836177-d349-4c4e-bbb5-189a1ae0fc2f" />
+
+
+**Case with PCB**
+<img width="989" height="456" alt="image" src="https://github.com/user-attachments/assets/5c8f3bf4-8b2c-4056-9b6e-f0dd3d29e9b5" />
+
+
+**Case Split Up**
+<img width="559" height="641" alt="image" src="https://github.com/user-attachments/assets/53be362a-8bec-42f8-a329-e583b04bb465" />
+
+
 ## PCB BOM
 *Amount used is for 2 USB Hubs + Price quotes though EasyEDA PCBA*
 
@@ -84,13 +107,13 @@ The case was designed using Blender, I choose this over CAD options due to my ex
 | Item | Discripton | Notes | Cost/Amount Used |
 | -------- | -------- | -------- | -------- |
 | 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | Aproxx 14g of filament = $0.12 |
-| M2 Screws | -------- | -------- | -------- | 
+| M2 Screws | -------- | -------- | 8 Required | 
 
 
 ## How to make one yourself!
 *If you have no intention of modifying the case or PCB and you have a 3D printer, here are the steps to follow:*
 
-1. Download your preferred case from the [Ready to Print](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Case%20Files/Ready%20to%20Print%20Files) folder. Please note that the only case that is 100% polished and updated will always be [Videocraft USB Hub v0 Case Keyhole+LED Hole_Print.stl](https://github.com/Videocraft10/Vid-USB-Hub/blob/main/Case%20Files/Ready%20to%20Print%20Files/Videocraft%20USB%20Hub%20v0%20Case%20Keyhole%2BLED%20Hole_Print.stl) Once downloaded (click the download button on the top right), open it in your 3D printer slicer of choice and export. I will be printing in a generic PLA on an Ender 3 Pro 3D printer, using the Super Quality preset, with tree supports enabled in the Cura Slicer settings.
+1. Download your preferred case from the [Ready to Print](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Case%20Files/Ready%20to%20Print%20Files) folder. Please note that the only case that is 100% polished and updated will always be [V2 Case Files](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Case%20Files/Ready%20to%20Print%20Files/V2%20Case%20Files) Once downloaded (click the download button on the top right), open it in your 3D printer slicer of choice and export. I will be printing in a generic PLA on an Ender 3 Pro 3D printer, using the Super Quality preset, with tree supports enabled in the Cura Slicer settings.
 2. Once you have the 3D print going, download the EasyEDA PCB files from the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/PCB%20Files) folder in the GitHub. Please note that EasyEDA files are not supported on KiCad, but you might be able to get them to work with some workarounds if you really want to.
 3. Import to EasyEDA and click Order.
 4. It is recommended to select the PCB Assembly option to get it pre-assembled. I recommend getting 2 assembled.
@@ -101,6 +124,8 @@ P.S. If you dont want to use EasyEDA I have also included the Garber File export
 *If you **DO** have intentions of modifying the case or PCB, here are the steps to follow:*
 1. All Blender files, including promotional files, are [here](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Promo%20Files).
 2. Blender files were created in Blender 5.1.1.
-3. NOTE: CAD files are converted from Blender, so they might not be well-organized or modeled correctly!!!
-4. Download the EasyEDA files from above in the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/PCB%20Files) folder in the GitHub.
-5. Import into EasyEDA and modify to your heart's content!
+3. CAD Files are ONLY avalable for Case v2 (closed, no opening mechanism)
+4. CAD Files where created in Fusion 360, with .f3z .obj and .step files avalable
+5. CAD files are located [here](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Case%20Files/CAD%20Files%20(v2))
+6. Download the EasyEDA files from above in the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/PCB%20Files) folder in the GitHub.
+7. Import into EasyEDA and modify to your heart's content!
