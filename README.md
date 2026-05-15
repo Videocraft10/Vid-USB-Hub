@@ -43,10 +43,14 @@ The case was designed using Blender, I choose this over CAD options due to my ex
 *This case feautres a key chain hole and a LED Hole*
 
 **Bottom**
+
+
 <img width="917" height="530" alt="Screenshot 2026-04-26 141639" src="https://github.com/user-attachments/assets/55e8611e-dc0d-425b-886c-4387e3511c02" />
 
 
 **Top**
+
+
 <img width="931" height="510" alt="Screenshot 2026-04-26 141649" src="https://github.com/user-attachments/assets/4d8de907-fbb6-4fea-9401-61a633569dd8" />
 
 
