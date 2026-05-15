@@ -77,6 +77,8 @@ After designing the case in blender, due to the requirement of having CAD files 
 
 
 **Case Split Up**
+
+
 <img width="559" height="641" alt="image" src="https://github.com/user-attachments/assets/53be362a-8bec-42f8-a329-e583b04bb465" />
 
 
