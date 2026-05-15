@@ -12,8 +12,8 @@ A custom made USB Hub with some cool little features created for Hack Club Fallo
 4. Red power LED to indicate when power is flowing though (great to make sure it ain't broke)
 5. Secured by 4 easy to remove M2 screws if you want to update the case with a different PCB with the same silhouette
 
-## Why
-I created this project to expand my knowledge on how hardware works on a fundamental level and how it is created, through sourcing materials, and designing the PCB. Additionally I wanted to add my [...]
+## Why??
+I created this project to expand my knowlage on how hardware works on a fundemental level and how it is created, through sourcing materials, and designing the PCB. Additionally I wanted to add my own custom spin on the classic USB Hub by adding some cool fetures that I would appreicate and use.
 
 ## The PCB
 The PCB for this project was created within EasyEDA for easy parts and footprint integration.
