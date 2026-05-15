@@ -81,14 +81,14 @@ After designing the case in blender, due to the requirement of having CAD files 
 
 | Item | JLCPCB # | Single Cost | Amount Used | Fees | Total Price |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| 	<ins>USB Hub Chip</ins> | C2684433 | $0.2245 | 2 | Forced to order 5 minimum | $1.1225|
-| Resistor 5.1k | C23186 | $0.0016 | 8 | None | $0.0128 |
-| Capacitors 1uF | C15849 | $0.0078 | 16 | None | $0.01248 |
-| Capacitors 100nF | C14663 | $0.003 | 6 | None | $0.018 |
-| Power LED | C2286 | $0.0066 | 2 | None | $0.0132 |
-| Resistor 330 | C23138 | $0.0016 | 2 | None | $0.0032 |
-| <ins>Type-A USBs</ins> | C668591 | $0.0662 | 6 | Difficult Component Fee + $0.03 per. Plus Order must be a even number, forced to buy 8 (3 for 1 PCB = not even. Forced 4 for one = 8 for both) | $0.5296 |
-| <ins>Type-C USBs</ins> | C2765186 | $0.066 | 4 | Forced to buy 5 | $0.33 |
+| 	<ins>USB Hub Chip</ins> | [C2684433](https://jlcpcb.com/partdetail/CoreChips-SL21s/C2684433) | $0.2245 | 2 | Forced to order 5 minimum | $1.1225|
+| Resistor 5.1k | [C23186](https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186) | $0.0016 | 8 | None | $0.0128 |
+| Capacitors 1uF | [C15849](https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849) | $0.0078 | 16 | None | $0.01248 |
+| Capacitors 100nF | [C14663](https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663) | $0.003 | 6 | None | $0.018 |
+| Power LED | [C2286](https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603R/C2286) | $0.0066 | 2 | None | $0.0132 |
+| Resistor 330 | [C23138](https://jlcpcb.com/partdetail/23865-0603WAF3300T5E/C23138) | $0.0016 | 2 | None | $0.0032 |
+| <ins>Type-A USBs</ins> | [C668591](https://jlcpcb.com/partdetail/SHOUHAN-10_0_QHHTZB63/C668591) | $0.0662 | 6 | Difficult Component Fee + $0.03 per. Plus Order must be a even number, forced to buy 8 (3 for 1 PCB = not even. Forced 4 for one = 8 for both) | $0.5296 |
+| <ins>Type-C USBs</ins> | [C2765186](https://jlcpcb.com/partdetail/SHOUHAN-TYPE_C_16PIN_2MD_073/C2765186) | $0.066 | 4 | Forced to buy 5 | $0.33 |
 | **PCB Price** | -------- | **PCBA Price + Fees** | **NOTES** | -------- | -------- |
 | $2 | -------- | Setup Fee | -------- | -------- | $8.12 |
 | -------- | -------- | Stencil | -------- | -------- | $1.52 |
@@ -102,13 +102,15 @@ After designing the case in blender, due to the requirement of having CAD files 
 | Sales Tax | -------- | -------- | -------- | -------- | $2.23 |
 | Grand Total | PCB (5) + PCBA (2) + Shipping + Tax | -------- | -------- | -------- | $35.92 |
 
-## Build BOM
+## Build BOM [WIP]
 
 | Item | Discripton | Notes | Cost/Amount Used |
 | -------- | -------- | -------- | -------- |
 | 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | Aproxx 14g of filament = $0.12 |
-| M2 Screws | -------- | -------- | 8 Required | 
+| M2 x 3mm Screws | -------- | 4 Required for case v1, 8 required for case v2 | $0.80 [here](https://www.moddiy.com/products/1262/M2.0-x-3mm-Black-Screws-CM2X3X4.html) | 
 
+## How to use!
+Pretty simple! Plug in a device, like a phone or computer, and you can now plug four USB accessoies though that one USB port!
 
 ## How to make one yourself!
 *If you have no intention of modifying the case or PCB and you have a 3D printer, here are the steps to follow:*
@@ -117,7 +119,7 @@ After designing the case in blender, due to the requirement of having CAD files 
 2. Once you have the 3D print going, download the EasyEDA PCB files from the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/PCB%20Files) folder in the GitHub. Please note that EasyEDA files are not supported on KiCad, but you might be able to get them to work with some workarounds if you really want to.
 3. Import to EasyEDA and click Order.
 4. It is recommended to select the PCB Assembly option to get it pre-assembled. I recommend getting 2 assembled.
-6. There you go! Once your PCB arrives, smack it into the case and secure it with M2 screws in the 4 corners.
+6. There you go! Once your PCB arrives, smack it into the case and secure it with M2 screws in the 4 corners. (if you did case v2 then also secure the case shut with 4 more m2 screws!)
 7. You are now a proud owner of the Videocraft USB Hub :)
 P.S. If you dont want to use EasyEDA I have also included the Garber File export too! You can find it [here!](https://github.com/Videocraft10/Vid-USB-Hub/blob/main/PCB%20Files/Gerber_VidUSBHUB.zip)
 
