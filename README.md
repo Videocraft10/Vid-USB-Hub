@@ -1,9 +1,8 @@
-
 # USB Hub: Videocraft Edition
 <img width="3840" height="2668" alt="USB Hub Main v2" src="https://github.com/user-attachments/assets/26379795-8718-4870-a766-5db08af34890" />
-A custom made USB Hub with some cool little fetures created for Hack Club Fallout.
+A custom made USB Hub with some cool little features created for Hack Club Fallout.
 
-## Fetures
+## Features
 <img width="2480" height="3508" alt="Videocraft USB Hub Zine v5" src="https://github.com/user-attachments/assets/1f1f5d51-e131-4e4d-86db-f14d761819be" />
 
 
@@ -11,19 +10,19 @@ A custom made USB Hub with some cool little fetures created for Hack Club Fallou
 2. Cool Keychain hole so you can take your hub around you with style :)
 3. Easy to open, 3D printed case so you can admire the PCB
 4. Red power LED to indicate when power is flowing though (great to make sure it ain't broke)
-5. Secured by 4 easy to remove M2 screws if you want to update the case with a diffrent PCB with the same silhouette
+5. Secured by 4 easy to remove M2 screws if you want to update the case with a different PCB with the same silhouette
 
 ## Why??
-I created this project to expand my knowlage on how hardware works on a fundemental level and how it is created, through sourcing materials, and designing the PCB. Additionally I wanted to add my own custom spin on the classic USB Hub by adding some cool fetures that I would appreicate and use.
+I created this project to expand my knowledge on how hardware works on a fundamental level and how it is created, through sourcing materials, and designing the PCB. Additionally I wanted to add my [...]
 
 ## The PCB
-The PCB for this project was created within EasyEDA for easy parts and footprint intagration.
+The PCB for this project was created within EasyEDA for easy parts and footprint integration.
 
 
 **The Schematic:**
 <img width="1452" height="1028" alt="Screenshot 2026-04-26 140159" src="https://github.com/user-attachments/assets/d209de7c-60b7-4f69-8d54-8ca1f9b59b91" />
 
-**The Circuit Borad:**
+**The Circuit Board:**
 
 
 Front:
@@ -35,12 +34,12 @@ Back:
 <img width="1151" height="575" alt="Screenshot 2026-04-26 140403" src="https://github.com/user-attachments/assets/f91e54dd-7763-4123-86fb-5cd0639ded90" />
 
 ## The Case (v1)
-This case was designed using Blender, I choose this over CAD options AT FIRST due to my extensive knowlage and experience in the software.
+This case was designed using Blender, I choose this over CAD options AT FIRST due to my extensive knowledge and experience in the software.
 
 
 **Full case**
 <img width="1178" height="365" alt="Screenshot 2026-04-26 141623" src="https://github.com/user-attachments/assets/485e5645-3790-4071-86ee-5e94ef2eaa94" />
-*This case feautres a key chain hole and a LED Hole*
+*This case features a key chain hole and a LED Hole*
 
 **Bottom**
 
@@ -59,7 +58,7 @@ This case was designed using Blender, I choose this over CAD options AT FIRST du
 *This case also features a open swinging design to easily open the case though the 3D printed latch to see inside*
 
 ## The Case TWO!! (v2)
-After designing the case in blender, due to the requirement of having CAD files in the GitHub, I created a seccond version of the case using Fusion 360!
+After designing the case in blender, due to the requirement of having CAD files in the GitHub, I created a second version of the case using Fusion 360!
 
 **Full Case**
 <img width="904" height="377" alt="Screenshot 2026-05-14 185318" src="https://github.com/user-attachments/assets/03fe9c6e-e9c7-4b01-8550-862e28796b56" />
