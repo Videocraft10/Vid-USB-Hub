@@ -58,7 +58,7 @@ This case was designed using Blender, I choose this over CAD options AT FIRST du
 <img width="1131" height="328" alt="Screenshot 2026-04-26 141707" src="https://github.com/user-attachments/assets/b97cdd27-b034-4ecf-974a-4afe93b02bf7" />
 *This case also features a open swinging design to easily open the case though the 3D printed latch to see inside*
 
-## The Case TWO!!
+## The Case TWO!! (v2)
 After designing the case in blender, due to the requirement of having CAD files in the GitHub, I created a seccond version of the case using Fusion 360!
 
 **Full Case**
