@@ -34,8 +34,8 @@ Front:
 Back:
 <img width="1151" height="575" alt="Screenshot 2026-04-26 140403" src="https://github.com/user-attachments/assets/f91e54dd-7763-4123-86fb-5cd0639ded90" />
 
-## The Case
-The case was designed using Blender, I choose this over CAD options due to my extensive knowlage and experience in the software.
+## The Case (v1)
+This case was designed using Blender, I choose this over CAD options AT FIRST due to my extensive knowlage and experience in the software.
 
 
 **Full case**
