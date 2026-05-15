@@ -33,6 +33,12 @@ Front:
 Back:
 <img width="1151" height="575" alt="Screenshot 2026-04-26 140403" src="https://github.com/user-attachments/assets/f91e54dd-7763-4123-86fb-5cd0639ded90" />
 
+Picture of the PCB IRL!!
+
+
+<img width="4031" height="3023" alt="IMG_6397" src="https://github.com/user-attachments/assets/5118ce2d-5ad2-4240-9a32-f3554102b6c3" />
+
+
 ## The Case (v1)
 This case was designed using Blender, I choose this over CAD options AT FIRST due to my extensive knowledge and experience in the software.
 
