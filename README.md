@@ -142,3 +142,9 @@ P.S. If you dont want to use EasyEDA I have also included the Garber File export
 5. CAD files are located [here](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Case%20Files/CAD%20Files%20(v2))
 6. Download the EasyEDA files from above in the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/PCB%20Files) folder in the GitHub.
 7. Import into EasyEDA and modify to your heart's content!
+
+## Software Used
+1. EasyEDA
+2. Blender
+3. Autodesk Fusion
+4. Adobe Photoshop
