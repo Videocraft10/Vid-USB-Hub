@@ -1,6 +1,9 @@
 # USB Hub: Videocraft Edition
 <img width="3840" height="2668" alt="USB Hub Main v2" src="https://github.com/user-attachments/assets/26379795-8718-4870-a766-5db08af34890" />
-A custom made USB Hub with some cool little features created for Hack Club Fallout.  *picure above is of v1 case*
+A custom made USB Hub with some cool little features created for Hack Club Fallout.  
+
+
+*picure above is of v1 case*
 
 ## Features
 <img width="2480" height="3508" alt="Videocraft USB Hub Zine v5" src="https://github.com/user-attachments/assets/1f1f5d51-e131-4e4d-86db-f14d761819be" />
