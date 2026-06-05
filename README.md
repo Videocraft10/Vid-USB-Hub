@@ -121,7 +121,7 @@ After designing the case in blender, due to the requirement of having CAD files 
 | Item | Discripton | Notes | Cost/Amount Used |
 | -------- | -------- | -------- | -------- |
 | 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | Aproxx 14g of filament = $0.12 |
-| M2 x 3mm Screws | -------- | 4 Required for case v1, 8 required for case v2 | $0.80 [here](https://www.moddiy.com/products/1262/M2.0-x-3mm-Black-Screws-CM2X3X4.html) | 
+| M2 x 3mm Screws | -------- | 4 Required for case v1, 8 required for case v2 | $4 [here](https://www.amazon.com/gp/product/B0B1Q9QQ7F?smid=A1BQWGBLWM4VYT&th=1) | 
 
 ## How to use!
 Pretty simple! Plug in a device, like a phone or computer, and you can now plug four USB accessoies though that one USB port!
