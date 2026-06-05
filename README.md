@@ -1,6 +1,9 @@
 # USB Hub: Videocraft Edition
 <img width="3840" height="2668" alt="USB Hub Main v2" src="https://github.com/user-attachments/assets/26379795-8718-4870-a766-5db08af34890" />
-A custom made USB Hub with some cool little features created for Hack Club Fallout.
+A custom made USB Hub with some cool little features created for Hack Club Fallout.  
+
+
+*picure above is of v1 case*
 
 ## Features
 <img width="2480" height="3508" alt="Videocraft USB Hub Zine v5" src="https://github.com/user-attachments/assets/1f1f5d51-e131-4e4d-86db-f14d761819be" />
@@ -142,3 +145,9 @@ P.S. If you dont want to use EasyEDA I have also included the Garber File export
 5. CAD files are located [here](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/Case%20Files/CAD%20Files%20(v2))
 6. Download the EasyEDA files from above in the [PCB](https://github.com/Videocraft10/Vid-USB-Hub/tree/main/PCB%20Files) folder in the GitHub.
 7. Import into EasyEDA and modify to your heart's content!
+
+## Software Used
+1. EasyEDA
+2. Blender
+3. Autodesk Fusion
+4. Adobe Photoshop
