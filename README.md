@@ -6,7 +6,8 @@ A custom made USB Hub with some cool little features created for Hack Club Fallo
 *picure above is of v1 case*
 
 ## Features
-<img width="2480" height="3508" alt="Videocraft USB Hub Zine v5" src="https://github.com/user-attachments/assets/1f1f5d51-e131-4e4d-86db-f14d761819be" />
+<img width="2480" height="3508" alt="Videocraft USB Hub v2 Zine v5 IRL" src="https://github.com/user-attachments/assets/82e109e1-0cc7-42a6-9aee-172e445482c7" />
+
 
 
 1. USB-A Input with 4 output USBs (2 A and 2 C)
@@ -89,6 +90,10 @@ After designing the case in blender, due to the requirement of having CAD files 
 
 <img width="559" height="641" alt="image" src="https://github.com/user-attachments/assets/53be362a-8bec-42f8-a329-e583b04bb465" />
 
+## IRL!!
+
+<img width="3024" height="4032" alt="IMG_6725" src="https://github.com/user-attachments/assets/10d07e1d-401d-4a90-aeca-76ea3cfbb3d1" />
+<img width="3024" height="4032" alt="IMG_6726" src="https://github.com/user-attachments/assets/e77fbf25-9b02-4bc5-844b-e41efac99f09" />
 
 ## PCB BOM
 *Amount used is for 2 USB Hubs + Price quotes though EasyEDA PCBA*
