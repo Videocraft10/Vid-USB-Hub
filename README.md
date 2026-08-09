@@ -160,3 +160,4 @@ P.S. If you dont want to use EasyEDA I have also included the Garber File export
 2. Blender
 3. Autodesk Fusion
 4. Adobe Photoshop
+5. Adobe Premiere Pro
