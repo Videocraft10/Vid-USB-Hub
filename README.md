@@ -6,7 +6,7 @@ A custom made USB Hub with some cool little features created for Hack Club Fallo
 *picure above is of v1 case*
 
 ## Features
-<img width="2480" height="3508" alt="Videocraft USB Hub v2 Zine v5 IRL" src="https://github.com/user-attachments/assets/82e109e1-0cc7-42a6-9aee-172e445482c7" />
+<img width="2480" height="3508" alt="Videocraft USB Hub v2 Zine BUILD VID" src="https://github.com/user-attachments/assets/6c6cad7d-7027-4c03-b8ad-9a18b627e7b3" />
 
 
 
